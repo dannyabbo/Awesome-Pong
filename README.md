@@ -1,5 +1,4 @@
 # Awesome-Pong
-My very first project in game development created 2 years ago. It's a simple Pong game with added visual effects and features an AI oppenent. The reason I call it Awesome pong is for not-so "awesome" reasons. Other than it being more visually atractive than regular pong, this was just a fun project to show off to my friends.
+This is my very first game development project, created as my final project for AP Computer Science. It's a simple Pong game that includes visual effects and features an AI opponent. Although I named it Awesome Pong, it's not necessarily because it's exceptionally "awesome." Rather, it's more visually appealing than a regular Pong game, making it a fun project to showcase to my friends.
 
-This is extreamly unorganised and with many unused extra classes.
-I uploaded this to show how my progression in programming and development as I upload more in the near future.
+However, I must admit that this project lacks organization and contains several unused extra classes. I have uploaded it to demonstrate my progression in programming and development, with the intention of sharing more projects in the near future.
